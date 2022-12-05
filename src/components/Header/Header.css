@@ -1,0 +1,11 @@
+.header {
+  background-image: url('../../assets/header/bg2.png');
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.header__btn {
+  transition: background-color 0.3s linear;
+}
+.header__btn:hover {
+  background-color: rgba(17, 17, 17, 0.6);
+}
